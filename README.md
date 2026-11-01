@@ -1,6 +1,6 @@
 # Reforged <img align="right" height="48" alt="image" src="https://github.com/user-attachments/assets/b0b7faf1-4b1a-4394-af71-caeac5e74c64" />
 
-<img align="right" height="500" alt="image" src="https://github.com/user-attachments/assets/e49b4cbc-5130-48a4-86b8-da960c9abe1a" />
+<img align="right" height="350" alt="image" src="https://github.com/user-attachments/assets/f1de7f72-5b27-452e-87c8-e38ff4da446c" />
 
 Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page). It provides a somewhat better experience across all features and not just Battle Arena, with new and interesting additions, a lot of balances and much more.
 
