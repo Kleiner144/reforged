@@ -21,6 +21,6 @@ Every feature in Reforged has been extended, with new or reworked content:
 
 <h3><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Latest">Download Reforged</a></h3>
 <h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/BETA">Beta Releases</h2>
-<h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/BETAegacy)">Beta Releases</h2>
+<h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Legacy)">Legacy</h2>
 
 [Reforged Wiki](https://aitg.miraheze.org/wiki/Reforged) | [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959)
