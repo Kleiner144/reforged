@@ -1,7 +1,6 @@
 # Reforged <img align="right" height="48" alt="image" src="https://github.com/user-attachments/assets/b0b7faf1-4b1a-4394-af71-caeac5e74c64" />
 
-<img align="right" height="500" alt="image" src="<img width="480" height="483" alt="AB" src="https://github.com/user-attachments/assets/8daf666e-5085-47ac-9196-b37927e11437" />
-" />
+<img align="right" height="500" alt="image" src="https://github.com/user-attachments/assets/8daf666e-5085-47ac-9196-b37927e11437" />
 
 (This is a fork Of Anti-Idle:Reforged's repository. I will add any new updates here incase if the main repo will be delayed (PS: I stink at github).
 
