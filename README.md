@@ -2,7 +2,7 @@
 
 <img align="right" height="500" alt="image" src="https://github.com/user-attachments/assets/e49b4cbc-5130-48a4-86b8-da960c9abe1a" />
 
-(This is a fork Of Anti-Idle:Reforged's repository, I will add any new updates here incase if the main repo will be delayed)
+(This is a fork Of Anti-Idle:Reforged's repository. I will add any new updates here incase if the main repo will be delayed)
 
 Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page). It provides a somewhat better experience across all features and not just Battle Arena, with new and interesting additions, a lot of balances and much more.
 
