@@ -16,3 +16,6 @@ Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.or
 
 
 If you want quick access to latest reforged updates (as well as other mods, and vanilla), wanna discuss about the game (or just yap), found a bug/have a suggestion, you're welcome to join [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959).Chill people.
+
+
+Ps: this github may not be maintained constantly, so I do advice you to use discord, if you can.
