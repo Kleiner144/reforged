@@ -6,7 +6,7 @@
 
 Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page). It provides a somewhat better experience across all features and not just Battle Arena, with new and interesting additions, a lot of balances and much more.
 
-Reforged offers a large expansion across the entirety of anti idle, as well as quality of life tweaks, all of the changes and additions can be found in the wiki. [right here](https://aitg.miraheze.org/wiki/Reforged)
+Reforged offers a large expansion across the entirety of anti idle, as well as quality of life tweaks, all of the changes and additions can be found in the wiki. [right here](https://aitg.miraheze.org/wiki/Reforged)(kind of outdated)
 
 
 <h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Latest">Download Reforged</a></h3>
@@ -18,4 +18,4 @@ Reforged offers a large expansion across the entirety of anti idle, as well as q
 
 
 
- | [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959)
+If you want access to latest mods faster, access to vanilla AITG, found a bug, have a suggestion, or just wanna yap, you're welcome to join [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959)
