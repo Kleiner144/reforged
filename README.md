@@ -4,7 +4,7 @@
 
 (This is a fork Of Anti-Idle:Reforged's repository. I will add any new updates here in case if the main repo will be delayed (PS: I stink at github)).
 
-Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page).It offers a large expansion across the entirety of anti idle, as well as quality of life tweaks, all of the changes and additions can be found in the wiki. [right here](https://aitg.miraheze.org/wiki/Reforged)(kind of outdated)
+Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page).It offers a large expansion across the entirety of anti idle, as well as quality of life tweaks, alot of the changes and additions can be found in the wiki. [right here](https://aitg.miraheze.org/wiki/Reforged)(kind of outdated)
 
 <h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Latest">Download Reforged</a></h3>
 
