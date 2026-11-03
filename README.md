@@ -18,4 +18,4 @@ Reforged offers a large expansion across the entirety of anti idle, as well as q
 
 
 
-If you want access to latest mods faster, access to vanilla AITG, found a bug, have a suggestion, or just wanna yap, you're welcome to join [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959)
+If you want quick access to latest reforged updates (as well as other mods, and vanilla), wanna discuss about the game (or just yap), found a bug/have a suggestion, you're welcome to join [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959).Chill people.
