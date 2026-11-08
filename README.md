@@ -6,11 +6,9 @@
 
 Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page).It offers a large expansion across the entirety of anti idle, as well as quality of life tweaks, alot of the changes and additions can be found in the wiki. [right here](https://aitg.miraheze.org/wiki/Reforged)(kind of outdated)
 
-<h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Latest">Download Reforged</a></h3>
+<h2><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Latest">Download Reforged</a></h2>
 
-
-<h3><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/BETA">Beta Releases</h4>
-<h3><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Legacy)">Legacy</h4>
+<h3><a align="center" href="https://github.com/Kleiner144/reforged/releases/tag/Legacy)">Legacy</h3>
 
 
 
